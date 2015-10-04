@@ -4,5 +4,11 @@
   "description": "Simulate a cell phone dialpad",
   "main": "index.js",
   "author": "Jamie Hoeks <j@skeoh.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.33.4"
+  }
 }

@@ -1,0 +1,8 @@
+{
+  "name": "dialpad-app",
+  "version": "0.1.0",
+  "description": "Simulate a cell phone dialpad",
+  "main": "index.js",
+  "author": "Jamie Hoeks <j@skeoh.com>",
+  "license": "MIT"
+}
